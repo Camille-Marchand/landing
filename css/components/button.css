@@ -1,0 +1,10 @@
+.btn-brown {
+	background-color: rgb(173, 139, 115);
+	padding: 15px 20px;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Roboto', serif;
+	margin-bottom: 40px;
+}
+
